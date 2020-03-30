@@ -1,5 +1,6 @@
 {
   "projects": {
-    "assignment9": "assignment9-project"
+    "assignment9": "assignment9-project",
+    "default": "assignment9-project"
   }
 }
