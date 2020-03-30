@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "bt3103-2020"
+    "default": "bt3103-2020",
+    "assignment9": "assignment9-project"
   }
 }
